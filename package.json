@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@hutechcollege/pariatur-minima-earum-hic",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,18 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/hutechcollege/pariatur-minima-earum-hic.git"
   },
   "dependencies": {
+    "@hutechcollege/a-explicabo-voluptas-accusamus": "^1.0.0",
+    "@hutechcollege/cumque-nobis-ipsa-praesentium": "^1.0.0",
+    "@hutechcollege/cumque-officia-cum-recusandae": "^1.0.0",
+    "@hutechcollege/doloremque-cupiditate-harum-eveniet": "^1.0.0",
+    "@hutechcollege/harum-eligendi-suscipit-modi": "^1.0.0",
+    "@hutechcollege/odit-deserunt-repellat-numquam": "^1.0.0",
+    "@hutechcollege/provident-atque-non-ea": "^1.0.0",
+    "coding-course-api": "^0.1.2",
+    "saoviet-caculator": "^0.1.2",
+    "saoviet-caculator-module": "^0.1.1"
   }
 }
